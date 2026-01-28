@@ -37,10 +37,6 @@ This project uses publicly accessible and aggregated NHS-related datasets where 
 - NHS Digital or equivalent open/statistical publications (where relevant to the analysis scope).
 - National/official statistics related to capacity, workforce, or sickness absence.
 
-A full list of datasets, including download dates and links, should be recorded in:
-- `docs/references.md` (source list + citations)
-- `docs/data_dictionary.md` (fields, definitions, transformations)
-
 ---
 
 ## Synthetic Data (If Applicable)
