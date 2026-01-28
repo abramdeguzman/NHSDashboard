@@ -59,18 +59,6 @@ See `docs/methodology.md` for full details.
 
 ---
 
-## How to Run / View the Project
-### Option A: Open Tableau Workbook
-1. Install Tableau (Desktop or Public).
-2. Open the workbook in Tableau NHS File.zip\Tableau NHS File`.
-3. Ensure Tableau is pointing to the datasets in `data/processed/` (re-map paths if needed).
-
-### Option B: View Exported Dashboards
-If exported visuals are provided, see:
-- `dashboards/exports/`
-
----
-
 ## Ethical Considerations
 - Only **publicly available, aggregated** data is used.
 - No primary data is collected from NHS staff or patients.
