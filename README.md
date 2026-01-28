@@ -4,7 +4,7 @@
 This repository contains a Business Intelligence (BI) analysis project focused on operational pressures within the UK National Health Service (NHS). It investigates how analytics and BI can support evidence-based decision-making by analysing performance indicators such as waiting times, bed occupancy, and workforce metrics. The project transforms publicly available NHS data (and synthetically generated operational data where required) into dashboards and insights to support demand forecasting, resource optimisation, and performance improvement.
 
 > **Note:** No identifiable NHS staff/patient data or clinical records are used. Where operational scenarios are required beyond public reporting, synthetic data is created to simulate realistic conditions.
-<img width="940" height="517" alt="image" src="https://github.com/user-attachments/assets/1cd93377-b7f4-44d5-811f-7f229b77e72d" />
+<img width="2900" height="1585" alt="Screenshot 2026-01-28 180839" src="https://github.com/user-attachments/assets/8eb1a993-4c07-46ad-a844-093a91a6badf" />
 
 ---
 
